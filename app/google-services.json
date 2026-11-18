@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "584037712101",
+    "project_id": "my-first-application-de695",
+    "storage_bucket": "my-first-application-de695.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584037712101:android:9ce62ee153de7112ff940c",
+        "android_client_info": {
+          "package_name": "com.delivery.smartnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584037712101-k3gmrv913novklfdp03di1coa6mk0lbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjL4NsLKfp8bR2Hk64NfGOpvB3Klq6IPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584037712101-k3gmrv913novklfdp03di1coa6mk0lbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584037712101:android:fa6975dab7aa7675ff940c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584037712101-k3gmrv913novklfdp03di1coa6mk0lbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjL4NsLKfp8bR2Hk64NfGOpvB3Klq6IPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584037712101-k3gmrv913novklfdp03di1coa6mk0lbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
